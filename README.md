@@ -53,3 +53,5 @@ Executive summary showing overall performance percentage, budget efficiency, and
 * Optimize budget allocation based on efficiency metrics.
 * Scale up high-impact programs across underperforming areas.
 * Establish mentorship programs linking green and red commissioners.
+
+ <a href="Rano_State_Performance_Data.xlsx">View analysis<a/>
